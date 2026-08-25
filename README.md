@@ -7,7 +7,7 @@ Linux, siber güvenlik ve yazılım konularıyla ilgilenen açık kaynak merakl�
 ### 🛠️ Kullandığım Teknolojiler & Sistemim
 
 - **İşletim Sistemi:** CachyOS (Arch Linux)
-- **Masaüstü Ortamı:** GNOME 
+- **Masaüstü Ortamı:** GNOME, KDE Plasma
 - **Odak Alanlarım:** Linux, siber güvenlik ve yazılım
 
 ---
