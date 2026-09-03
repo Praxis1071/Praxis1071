@@ -14,24 +14,15 @@
 
 ## FOCUS
 
-🐧 **Linux** &nbsp;&nbsp; • &nbsp;&nbsp; 🖥️ **Home Lab** &nbsp;&nbsp; • &nbsp;&nbsp; 🌐 **Networking**
+**Linux** &nbsp;&nbsp; • &nbsp;&nbsp; **Home Lab** &nbsp;&nbsp; • &nbsp;&nbsp; **Networking**
 
-🔐 **Cybersecurity** &nbsp;&nbsp; • &nbsp;&nbsp; 💻 **Software**
+**Cybersecurity** &nbsp;&nbsp; • &nbsp;&nbsp; **Software**
 
 <br>
 
 ## CURRENTLY LEARNING
 
 `Python` &nbsp; `Git` &nbsp; `GitHub`
-
-<br>
-
-> ### **Praxis**
-> **Turning knowledge into practice.**
-
-<br>
-
-<sub>Learn → Experiment → Build → Improve</sub>
 
 </div>
 
