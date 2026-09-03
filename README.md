@@ -1,31 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=180&section=header&text=PRAXIS1071&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Learning%20by%20doing.&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0369a1,100:2563eb&height=190&section=header&text=PRAXIS1071&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Turning%20knowledge%20into%20practice.&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
 
 ### Linux · Cybersecurity · Software
 
-`Learn` → `Experiment` → `Build` → `Improve`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Linux;Experimenting+with+Home+Lab;Exploring+Cybersecurity;Learning+Python;Learning+Git+%26+GitHub" alt="Typing animation"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=620&lines=Exploring+Linux;Experimenting+with+Home+Lab;Learning+Cybersecurity;Learning+Python+%26+Git;Building+through+practice" alt="Typing animation"/>
+`Learn` → `Experiment` → `Build` → `Improve`
 
 <br><br>
 
-| 🐧 Linux | 🖥️ Home Lab | 🌐 Networking |
-|:---:|:---:|:---:|
-| **Focus** | **Experiment** | **Explore** |
+## FOCUS
 
-### Currently learning
+🐧 **Linux** &nbsp;&nbsp; • &nbsp;&nbsp; 🖥️ **Home Lab** &nbsp;&nbsp; • &nbsp;&nbsp; 🌐 **Networking**
 
-`Python` · `Git` · `GitHub`
+🔐 **Cybersecurity** &nbsp;&nbsp; • &nbsp;&nbsp; 💻 **Software**
 
 <br>
 
-> **Praxis** — putting knowledge into practice.
+## CURRENTLY LEARNING
 
-<sub>Learn. Experiment. Build. Improve.</sub>
+`Python` &nbsp; `Git` &nbsp; `GitHub`
+
+<br>
+
+> ### **Praxis**
+> **Turning knowledge into practice.**
+
+<br>
+
+<sub>Learn → Experiment → Build → Improve</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111827&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:0369a1,75:0f172a,100:020617&height=100&section=footer" width="100%"/>
