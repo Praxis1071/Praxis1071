@@ -4,7 +4,7 @@
 
 ### Linux · Cybersecurity · Software
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Linux;Experimenting+with+Home+Lab;Exploring+Cybersecurity;Learning+Python;Learning+Git+%26+GitHub" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Linux;Experimenting+with+Home+Lab;Exploring+Cybersecurity;I+use+Arch+btw;Learning+Python;Learning+Git+%26+GitHub" alt="Typing animation"/>
 
 <br>
 
