@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f3a,70:075985,100:2563eb&height=210&section=header&text=PRAXIS1071&fontSize=56&fontColor=ffffff&fontAlignY=39&desc=Turning%20knowledge%20into%20practice.&descSize=19&descAlignY=61&animation=fadeIn" width="100%"/>
 
+### Hi, I'm Mehmet.
+
+Exploring technology, building projects, and learning by doing.
+
 <br>
 
 ## FOCUS
