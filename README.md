@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f3a,70:075985,100:2563eb&height=210&section=header&text=PRAXIS1071&fontSize=56&fontColor=ffffff&fontAlignY=39&desc=Turning%20knowledge%20into%20practice.&descSize=19&descAlignY=61&animation=fadeIn" width="100%"/>
 
-### Linux · Cybersecurity · Software
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Linux;Experimenting+with+Home+Lab;Exploring+Cybersecurity;Learning+Python;Learning+Git+%26+GitHub" alt="Typing animation"/>
-
 <br>
 
 ## FOCUS
