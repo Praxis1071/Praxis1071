@@ -1,29 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0369a1,100:2563eb&height=190&section=header&text=PRAXIS1071&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Turning%20knowledge%20into%20practice.&descSize=18&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f3a,70:075985,100:2563eb&height=210&section=header&text=PRAXIS1071&fontSize=56&fontColor=ffffff&fontAlignY=39&desc=Turning%20knowledge%20into%20practice.&descSize=19&descAlignY=61&animation=fadeIn" width="100%"/>
 
 ### Linux · Cybersecurity · Software
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Linux;Experimenting+with+Home+Lab;Exploring+Cybersecurity;I+use+Arch+btw;Learning+Python;Learning+Git+%26+GitHub" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=650&lines=Exploring+Linux;Experimenting+with+Home+Lab;Exploring+Cybersecurity;Learning+Python;Learning+Git+%26+GitHub" alt="Typing animation"/>
 
 <br>
-
-`Learn` → `Experiment` → `Build` → `Improve`
-
-<br><br>
 
 ## FOCUS
 
-**Linux** &nbsp;&nbsp; • &nbsp;&nbsp; **Home Lab** &nbsp;&nbsp; • &nbsp;&nbsp; **Networking**
+<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&labelColor=020617&color=0f172a" alt="Linux"/> <img src="https://img.shields.io/badge/Home%20Lab-0b1f3a?style=for-the-badge&labelColor=0b1f3a&color=123b5d" alt="Home Lab"/> <img src="https://img.shields.io/badge/Networking-075985?style=for-the-badge&labelColor=075985&color=0369a1" alt="Networking"/>
 
-**Cybersecurity** &nbsp;&nbsp; • &nbsp;&nbsp; **Software**
+<img src="https://img.shields.io/badge/Cybersecurity-0c4a6e?style=for-the-badge&labelColor=0c4a6e&color=075985" alt="Cybersecurity"/> <img src="https://img.shields.io/badge/Software-1d4ed8?style=for-the-badge&labelColor=1d4ed8&color=2563eb" alt="Software"/>
 
-<br>
+<br><br>
 
 ## CURRENTLY LEARNING
 
-`Python` &nbsp; `Git` &nbsp; `GitHub`
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&labelColor=020617&color=0f172a" alt="Python"/> <img src="https://img.shields.io/badge/Git-0b1f3a?style=for-the-badge&labelColor=0b1f3a&color=123b5d" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&labelColor=111827&color=1f2937" alt="GitHub"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,45:0369a1,75:0f172a,100:020617&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,40:075985,70:0b1f3a,100:020617&height=105&section=footer" width="100%"/>
