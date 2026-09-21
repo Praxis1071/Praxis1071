@@ -10,9 +10,7 @@ Exploring technology, building projects, and learning by doing.
 Kayseri University · Hüseyin Şahin Vocational School  
 Kayseri, Türkiye
 
-**Linux user for 2+ years**
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Linux+enthusiast;Building+with+Python;Exploring+networking;Learning+by+doing" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&height=130&lines=%24+whoami%3B+Praxis1071;%24+ls+projects%2F%3B+Keycan+%7C+NetFather+%7C+TankRush;%24+echo+%22Turning+knowledge+into+practice.%22;%24+_" alt="Terminal animation"/>
 
 <br>
 
