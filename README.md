@@ -6,18 +6,21 @@
 
 Exploring technology, building projects, and learning by doing.
 
+**Computer Technologies Student**  
+Kayseri University · Hüseyin Şahin Vocational School  
+Kayseri, Türkiye
+
+**Linux user · 50+ installations · Custom ROM experience**
+
 <br>
 
 ## FEATURED PROJECTS
 
-**[Keycan](https://github.com/Praxis1071/Keycan)**  
-A GTK4 desktop typing tutor built with Python, focused on practice, progress tracking, and a clean Linux desktop experience.
+**[Keycan](https://github.com/Praxis1071/Keycan)**
 
-**[Arch-Privacy-Setup](https://github.com/Praxis1071/Arch-Privacy-Setup)**  
-A privacy-focused setup project for Arch Linux, bringing together practical system and privacy configurations.
+**[Arch-Privacy-Setup](https://github.com/Praxis1071/Arch-Privacy-Setup)**
 
-**[NetFather](https://github.com/Praxis1071/NetFather)**  
-A GTK4 network management and monitoring platform for Linux, built around network discovery, monitoring, and administration.
+**[NetFather](https://github.com/Praxis1071/NetFather)**
 
 <br>
 
