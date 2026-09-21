@@ -10,17 +10,17 @@ Exploring technology, building projects, and learning by doing.
 Kayseri University · Hüseyin Şahin Vocational School  
 Kayseri, Türkiye
 
-**Linux user · 50+ installations · Custom ROM experience**
+**Linux user for 2+ years**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Linux+enthusiast;Building+with+Python;Exploring+networking;Learning+by+doing" alt="Typing animation"/>
 
 <br>
 
 ## FEATURED PROJECTS
 
-**[Keycan](https://github.com/Praxis1071/Keycan)**
-
-**[Arch-Privacy-Setup](https://github.com/Praxis1071/Arch-Privacy-Setup)**
-
-**[NetFather](https://github.com/Praxis1071/NetFather)**
+<a href="https://github.com/Praxis1071/Keycan"><img src="https://img.shields.io/badge/KEYCAN-020617?style=for-the-badge&labelColor=020617&color=2563eb" alt="Keycan"/></a>
+<a href="https://github.com/Praxis1071/Arch-Privacy-Setup"><img src="https://img.shields.io/badge/ARCH--PRIVACY--SETUP-020617?style=for-the-badge&labelColor=020617&color=075985" alt="Arch-Privacy-Setup"/></a>
+<a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-020617?style=for-the-badge&labelColor=020617&color=0ea5e9" alt="NetFather"/></a>
 
 <br>
 
