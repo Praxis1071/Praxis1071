@@ -8,6 +8,19 @@ Exploring technology, building projects, and learning by doing.
 
 <br>
 
+## FEATURED PROJECTS
+
+**[Keycan](https://github.com/Praxis1071/Keycan)**  
+A GTK4 desktop typing tutor built with Python, focused on practice, progress tracking, and a clean Linux desktop experience.
+
+**[Arch-Privacy-Setup](https://github.com/Praxis1071/Arch-Privacy-Setup)**  
+A privacy-focused setup project for Arch Linux, bringing together practical system and privacy configurations.
+
+**[NetFather](https://github.com/Praxis1071/NetFather)**  
+A GTK4 network management and monitoring platform for Linux, built around network discovery, monitoring, and administration.
+
+<br>
+
 ## FOCUS
 
 <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&labelColor=020617&color=0f172a" alt="Linux"/> <img src="https://img.shields.io/badge/Home%20Lab-0b1f3a?style=for-the-badge&labelColor=0b1f3a&color=123b5d" alt="Home Lab"/> <img src="https://img.shields.io/badge/Networking-075985?style=for-the-badge&labelColor=075985&color=0369a1" alt="Networking"/>
