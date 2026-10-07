@@ -30,9 +30,6 @@ Kayseri, Türkiye
 
 <br><br>
 
-## CURRENTLY LEARNING
-
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&labelColor=020617&color=0f172a" alt="Python"/> <img src="https://img.shields.io/badge/Git-0b1f3a?style=for-the-badge&labelColor=0b1f3a&color=123b5d" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&labelColor=111827&color=1f2937" alt="GitHub"/>
 
 </div>
 
