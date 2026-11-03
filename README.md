@@ -1,36 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0b1f3a,70:075985,100:2563eb&height=210&section=header&text=PRAXIS1071&fontSize=56&fontColor=ffffff&fontAlignY=39&desc=Turning%20knowledge%20into%20practice.&descSize=19&descAlignY=61&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/arch-security-hero.svg" width="100%" alt="Praxis1071 — Arch Linux, security and open source"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Arch+Linux+%7C+Linux+enthusiast;Exploring+cybersecurity+and+networking;Building+open-source+tools;Learn+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Improve" alt="Animated security-themed typing text"/>
 
 ### Hi, I'm Mehmet.
 
-Exploring technology, building projects, and learning by doing.
+Computer Technologies student based in Türkiye. I enjoy exploring Linux, understanding networks, experimenting in security labs, and building open-source software.
 
-**Computer Technologies Student**  
-Kayseri University · Hüseyin Şahin Vocational School  
-Kayseri, Türkiye
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Animated circuit divider"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=Linux+enthusiast;Building+with+Python;Exploring+networking;Learning+by+doing" alt="Typing animation"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/terminal-session.svg" width="100%" alt="Animated terminal session"/>
+
+## ⌁ FEATURED PROJECTS
+
+<a href="https://github.com/Praxis1071/Keycan"><img src="https://img.shields.io/badge/KEYCAN-050b16?style=for-the-badge&logo=linux&logoColor=38bdf8&labelColor=050b16&color=075985" alt="Keycan"/></a>
+<a href="https://github.com/Praxis1071/blackarch-toolset"><img src="https://img.shields.io/badge/BLACKARCH--TOOLSET-050b16?style=for-the-badge&logo=kalilinux&logoColor=38bdf8&labelColor=050b16&color=0e7490" alt="BlackArch Toolset"/></a>
+<a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-050b16?style=for-the-badge&logo=linux&logoColor=38bdf8&labelColor=050b16&color=1d4ed8" alt="NetFather"/></a>
+
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Animated circuit divider"/>
+
+## ⌁ AREAS OF INTEREST
+
+<img src="https://img.shields.io/badge/ARCH_LINUX-0b1220?style=for-the-badge&logo=archlinux&logoColor=1793d1" alt="Arch Linux"/> <img src="https://img.shields.io/badge/BLACKARCH-0b1220?style=for-the-badge&logo=linux&logoColor=38bdf8" alt="BlackArch"/> <img src="https://img.shields.io/badge/NETWORKING-0b1220?style=for-the-badge&logo=wireshark&logoColor=38bdf8" alt="Networking"/>
+
+<img src="https://img.shields.io/badge/SECURITY_LABS-0b1220?style=for-the-badge&logo= kali-linux&logoColor=38bdf8" alt="Security labs"/> <img src="https://img.shields.io/badge/HOME_LAB-0b1220?style=for-the-badge&logo=proxmox&logoColor=38bdf8" alt="Home Lab"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Open Source"/>
 
 <br>
 
-## FEATURED PROJECTS
+<sub>Curiosity-driven learning · Authorized testing only · Open-source mindset</sub>
 
-<a href="https://github.com/Praxis1071/Keycan"><img src="https://img.shields.io/badge/KEYCAN-020617?style=for-the-badge&labelColor=020617&color=2563eb" alt="Keycan"/></a>
-<a href="https://github.com/Praxis1071/Arch-Privacy-Setup"><img src="https://img.shields.io/badge/ARCH--PRIVACY--SETUP-020617?style=for-the-badge&labelColor=020617&color=075985" alt="Arch-Privacy-Setup"/></a>
-<a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-020617?style=for-the-badge&labelColor=020617&color=0ea5e9" alt="NetFather"/></a>
-
-<br>
-
-## FOCUS
-
-<img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&labelColor=020617&color=0f172a" alt="Linux"/> <img src="https://img.shields.io/badge/Home%20Lab-0b1f3a?style=for-the-badge&labelColor=0b1f3a&color=123b5d" alt="Home Lab"/> <img src="https://img.shields.io/badge/Networking-075985?style=for-the-badge&labelColor=075985&color=0369a1" alt="Networking"/>
-
-<img src="https://img.shields.io/badge/Cybersecurity-0c4a6e?style=for-the-badge&labelColor=0c4a6e&color=075985" alt="Cybersecurity"/> <img src="https://img.shields.io/badge/Software-1d4ed8?style=for-the-badge&labelColor=1d4ed8&color=2563eb" alt="Software"/>
-
-<br><br>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:075985,100:020617&height=125&section=footer&animation=fadeIn" width="100%" alt="Animated blue footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,40:075985,70:0b1f3a,100:020617&height=105&section=footer" width="100%"/>
