@@ -24,7 +24,7 @@ Computer Technologies student based in Türkiye. I enjoy exploring Linux, unders
 
 <img src="https://img.shields.io/badge/ARCH_LINUX-0b1220?style=for-the-badge&logo=archlinux&logoColor=1793d1" alt="Arch Linux"/> <img src="https://img.shields.io/badge/BLACKARCH-0b1220?style=for-the-badge&logo=linux&logoColor=38bdf8" alt="BlackArch"/> <img src="https://img.shields.io/badge/NETWORKING-0b1220?style=for-the-badge&logo=wireshark&logoColor=38bdf8" alt="Networking"/>
 
-<img src="https://img.shields.io/badge/SECURITY_LABS-0b1220?style=for-the-badge&logo= kali-linux&logoColor=38bdf8" alt="Security labs"/> <img src="https://img.shields.io/badge/HOME_LAB-0b1220?style=for-the-badge&logo=proxmox&logoColor=38bdf8" alt="Home Lab"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Open Source"/>
+<img src="https://img.shields.io/badge/SECURITY_LABS-0b1220?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Security labs"/> <img src="https://img.shields.io/badge/HOME_LAB-0b1220?style=for-the-badge&logo=linux&logoColor=38bdf8" alt="Home Lab"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Open Source"/>
 
 <br>
 
