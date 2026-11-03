@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/arch-security-hero.svg" width="100%" alt="Praxis1071 — Arch Linux, security and open source"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/arch-security-hero.svg" width="100%" alt="Praxis1071 Arch-based Linux and security banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Arch+Linux+%7C+Linux+enthusiast;Exploring+cybersecurity+and+networking;Building+open-source+tools;Learn+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Improve" alt="Animated security-themed typing text"/>
 
@@ -8,9 +8,9 @@
 
 Computer Technologies student based in Türkiye. I enjoy exploring Linux, understanding networks, experimenting in security labs, and building open-source software.
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Animated circuit divider"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Circuit divider"/>
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/terminal-session.svg" width="100%" alt="Animated terminal session"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/terminal-session.svg" width="100%" alt="Terminal-themed project panel"/>
 
 ## ⌁ FEATURED PROJECTS
 
@@ -18,7 +18,11 @@ Computer Technologies student based in Türkiye. I enjoy exploring Linux, unders
 <a href="https://github.com/Praxis1071/blackarch-toolset"><img src="https://img.shields.io/badge/BLACKARCH--TOOLSET-050b16?style=for-the-badge&logo=kalilinux&logoColor=38bdf8&labelColor=050b16&color=0e7490" alt="BlackArch Toolset"/></a>
 <a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-050b16?style=for-the-badge&logo=linux&logoColor=38bdf8&labelColor=050b16&color=1d4ed8" alt="NetFather"/></a>
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Animated circuit divider"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Circuit divider"/>
+
+## ⌁ CONTRIBUTION TRACE
+
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/output/github-snake.gif" width="100%" alt="Animated GitHub contribution snake"/>
 
 ## ⌁ AREAS OF INTEREST
 
