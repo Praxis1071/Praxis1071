@@ -6,7 +6,7 @@
   <text x="550" y="27" fill="#64748b" font-family="monospace" font-size="13" text-anchor="middle">praxis1071@archlinux: ~</text>
   <g font-family="monospace" font-size="17">
     <text x="30" y="82" fill="#38bdf8">$</text><text x="52" y="82" fill="#e2e8f0">uname -o</text><text x="190" y="82" fill="#94a3b8">→ GNU/Linux</text>
-    <text x="30" y="119" fill="#38bdf8">$</text><text x="52" y="119" fill="#e2e8f0">cat /etc/os-release</text><text x="270" y="119" fill="#94a3b8">→ Arch-based systems</text>
+    <text x="30" y="119" fill="#38bdf8">$</text><text x="52" y="119" fill="#e2e8f0">cat interests.txt</text><text x="270" y="119" fill="#94a3b8">→ Linux • Networking • Security Labs</text>
     <text x="30" y="156" fill="#38bdf8">$</text><text x="52" y="156" fill="#e2e8f0">ls ~/projects</text><text x="190" y="156" fill="#94a3b8">→ BlackArch-Toolset  Keycan  NetFather</text>
     <text x="30" y="193" fill="#38bdf8">$</text><text x="52" y="193" fill="#e2e8f0">echo "Turning knowledge into practice."</text>
     <rect x="470" y="178" width="10" height="19" fill="#38bdf8"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
