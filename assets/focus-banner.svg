@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="t d">
+<title id="t">Areas of focus</title><desc id="d">Animated blue technical banner showing Linux, open source, networking and cybersecurity.</desc>
+<defs>
+<linearGradient id="b" x2="1" y2="1"><stop stop-color="#030712"/><stop offset=".55" stop-color="#0b1b32"/><stop offset="1" stop-color="#020617"/></linearGradient>
+<linearGradient id="l"><stop stop-color="#0ea5e9" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></linearGradient>
+<pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#38bdf8" opacity=".09"/></pattern>
+</defs>
+<rect width="1200" height="190" rx="16" fill="url(#b)"/><rect width="1200" height="190" rx="16" fill="url(#g)"/>
+<g fill="none" stroke="#0ea5e9" stroke-opacity=".45"><path d="M0 40H110L145 75H220M980 0V35L1020 75H1200M0 155H90L125 120H200M1010 190V155L1050 115H1200"/></g>
+<g fill="#38bdf8"><circle cx="110" cy="40" r="3"/><circle cx="1020" cy="75" r="3"/><circle cx="90" cy="155" r="3"/></g>
+<text x="62" y="57" fill="#7dd3fc" font-family="monospace" font-size="14" letter-spacing="4">WHAT I EXPLORE</text>
+<g font-family="monospace" font-size="25" font-weight="600" fill="#e2e8f0">
+<text x="62" y="112">LINUX</text><text x="310" y="112">OPEN SOURCE</text><text x="650" y="112">NETWORKING</text><text x="930" y="112">CYBERSECURITY</text>
+</g>
+<g stroke="#38bdf8" stroke-width="2" opacity=".8"><path d="M62 130H190M310 130H535M650 130H850M930 130H1135"/></g>
+<circle cx="62" cy="130" r="4" fill="#38bdf8"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="-100" y="0" width="70" height="190" fill="#38bdf8" opacity=".07"><animate attributeName="x" values="-100;1230" dur="8s" repeatCount="indefinite"/></rect>
+<rect width="1200" height="2" fill="url(#l)"/><rect y="188" width="1200" height="2" fill="url(#l)"/>
+</svg>
