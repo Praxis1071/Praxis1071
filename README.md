@@ -1,39 +1,57 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/arch-security-hero.svg" width="100%" alt="Praxis1071 Arch-based Linux and security banner"/>
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/arch-security-hero.svg" width="100%" alt="Praxis1071 — Linux and cybersecurity themed banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=750&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=Arch+Linux+%7C+Linux+enthusiast;Exploring+cybersecurity+and+networking;Building+open-source+tools;Learn+%E2%80%A2+Build+%E2%80%A2+Break+%E2%80%A2+Improve" alt="Animated security-themed typing text"/>
+# Hi, I'm Mehmet.
 
-### Hi, I'm Mehmet.
+**Turning knowledge into practice.**
 
-Exploring Linux, understanding networks, experimenting in security labs, and building open-source software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&height=42&lines=Linux+%26+open-source;Networking+%26+security+labs;Building+tools+for+Linux" alt="Linux, open source, networking and security labs"/>
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Circuit divider"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/terminal-session.svg" width="100%" alt="Terminal-themed project panel"/>
+---
 
-## FEATURED PROJECTS
+## About
 
-<a href="https://github.com/Praxis1071/Keycan"><img src="https://img.shields.io/badge/KEYCAN-050b16?style=for-the-badge&labelColor=050b16&color=075985" alt="Keycan"/></a>
-<a href="https://github.com/Praxis1071/blackarch-toolset"><img src="https://img.shields.io/badge/BLACKARCH--TOOLSET-050b16?style=for-the-badge&labelColor=050b16&color=0e7490" alt="BlackArch Toolset"/></a>
-<a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-050b16?style=for-the-badge&labelColor=050b16&color=1d4ed8" alt="NetFather"/></a>
+I'm a Linux enthusiast interested in understanding how systems and networks work. I enjoy experimenting in my own lab and turning what I learn into practical open-source projects.
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Circuit divider"/>
+My main interests are Linux desktop software, network management, and cybersecurity.
 
-## CONTRIBUTION TRACE
+## Featured Projects
 
-<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/output/github-snake.gif" width="100%" alt="Animated GitHub contribution snake"/>
+### [Keycan](https://github.com/Praxis1071/Keycan)
 
-## AREAS OF INTEREST
+A local-first touch-typing practice application for Linux, built with **Python, GTK4, and libadwaita**. It includes customizable lessons, practice statistics, and local progress tracking.
 
-<img src="https://img.shields.io/badge/ARCH_LINUX-0b1220?style=for-the-badge" alt="Arch Linux"/> <img src="https://img.shields.io/badge/BLACKARCH-0b1220?style=for-the-badge" alt="BlackArch"/> <img src="https://img.shields.io/badge/NETWORKING-0b1220?style=for-the-badge" alt="Networking"/>
+### [NetFather](https://github.com/Praxis1071/NetFather)
 
-<img src="https://img.shields.io/badge/SECURITY_LABS-0b1220?style=for-the-badge" alt="Security labs"/> <img src="https://img.shields.io/badge/HOME_LAB-0b1220?style=for-the-badge" alt="Home Lab"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-0b1220?style=for-the-badge" alt="Open Source"/>
+A Linux network-management application built with **GTK4**. It focuses on local device discovery, device management, network policies, monitoring, and the foundations of traffic enforcement. It is under active development; production-ready traffic enforcement is not yet complete.
 
-<br>
+### [BlackArch Toolset](https://github.com/Praxis1071/blackarch-toolset)
 
-<sub>Curiosity-driven learning · Authorized testing only · Open-source mindset</sub>
+A curated command reference and installer for selected security tools on **Arch Linux and BlackArch**, with usage notes and safer installation and removal workflows.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:082f49,70:075985,100:020617&height=125&section=footer&animation=fadeIn" width="100%" alt="Animated blue footer"/>
+## Areas of Interest
+
+- Linux and Arch-based systems
+- GTK4 and Linux desktop applications
+- Networking and home labs
+- Cybersecurity and authorized security testing
+- Open-source software
+
+## Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/output/github-snake.gif" width="100%" alt="Animated contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Curiosity-driven learning · Practical experimentation · Open-source mindset</sub>
 
 </div>
