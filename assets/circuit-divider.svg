@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="46" viewBox="0 0 1100 46">
-  <defs><linearGradient id="line" x1="0" x2="1"><stop stop-color="#020617" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#020617" stop-opacity="0"/></linearGradient></defs>
-  <path d="M0 23H1100" stroke="#164e63" stroke-width="1"/>
-  <path d="M0 23H1100" stroke="url(#line)" stroke-width="2" stroke-dasharray="100 900"><animate attributeName="stroke-dashoffset" from="1000" to="0" dur="5s" repeatCount="indefinite"/></path>
-  <circle cx="550" cy="23" r="4" fill="#38bdf8"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle>
-</svg>
