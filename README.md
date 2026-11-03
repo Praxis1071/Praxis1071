@@ -6,29 +6,29 @@
 
 ### Hi, I'm Mehmet.
 
-Computer Technologies student based in Türkiye. I enjoy exploring Linux, understanding networks, experimenting in security labs, and building open-source software.
+Exploring Linux, understanding networks, experimenting in security labs, and building open-source software.
 
 <img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Circuit divider"/>
 
 <img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/terminal-session.svg" width="100%" alt="Terminal-themed project panel"/>
 
-## ⌁ FEATURED PROJECTS
+## FEATURED PROJECTS
 
-<a href="https://github.com/Praxis1071/Keycan"><img src="https://img.shields.io/badge/KEYCAN-050b16?style=for-the-badge&logo=linux&logoColor=38bdf8&labelColor=050b16&color=075985" alt="Keycan"/></a>
-<a href="https://github.com/Praxis1071/blackarch-toolset"><img src="https://img.shields.io/badge/BLACKARCH--TOOLSET-050b16?style=for-the-badge&logo=kalilinux&logoColor=38bdf8&labelColor=050b16&color=0e7490" alt="BlackArch Toolset"/></a>
-<a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-050b16?style=for-the-badge&logo=linux&logoColor=38bdf8&labelColor=050b16&color=1d4ed8" alt="NetFather"/></a>
+<a href="https://github.com/Praxis1071/Keycan"><img src="https://img.shields.io/badge/KEYCAN-050b16?style=for-the-badge&labelColor=050b16&color=075985" alt="Keycan"/></a>
+<a href="https://github.com/Praxis1071/blackarch-toolset"><img src="https://img.shields.io/badge/BLACKARCH--TOOLSET-050b16?style=for-the-badge&labelColor=050b16&color=0e7490" alt="BlackArch Toolset"/></a>
+<a href="https://github.com/Praxis1071/NetFather"><img src="https://img.shields.io/badge/NETFATHER-050b16?style=for-the-badge&labelColor=050b16&color=1d4ed8" alt="NetFather"/></a>
 
 <img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/main/assets/circuit-divider.svg" width="100%" alt="Circuit divider"/>
 
-## ⌁ CONTRIBUTION TRACE
+## CONTRIBUTION TRACE
 
 <img src="https://raw.githubusercontent.com/Praxis1071/Praxis1071/output/github-snake.gif" width="100%" alt="Animated GitHub contribution snake"/>
 
-## ⌁ AREAS OF INTEREST
+## AREAS OF INTEREST
 
-<img src="https://img.shields.io/badge/ARCH_LINUX-0b1220?style=for-the-badge&logo=archlinux&logoColor=1793d1" alt="Arch Linux"/> <img src="https://img.shields.io/badge/BLACKARCH-0b1220?style=for-the-badge&logo=linux&logoColor=38bdf8" alt="BlackArch"/> <img src="https://img.shields.io/badge/NETWORKING-0b1220?style=for-the-badge&logo=wireshark&logoColor=38bdf8" alt="Networking"/>
+<img src="https://img.shields.io/badge/ARCH_LINUX-0b1220?style=for-the-badge" alt="Arch Linux"/> <img src="https://img.shields.io/badge/BLACKARCH-0b1220?style=for-the-badge" alt="BlackArch"/> <img src="https://img.shields.io/badge/NETWORKING-0b1220?style=for-the-badge" alt="Networking"/>
 
-<img src="https://img.shields.io/badge/SECURITY_LABS-0b1220?style=for-the-badge&logo=kalilinux&logoColor=38bdf8" alt="Security labs"/> <img src="https://img.shields.io/badge/HOME_LAB-0b1220?style=for-the-badge&logo=linux&logoColor=38bdf8" alt="Home Lab"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-0b1220?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Open Source"/>
+<img src="https://img.shields.io/badge/SECURITY_LABS-0b1220?style=for-the-badge" alt="Security labs"/> <img src="https://img.shields.io/badge/HOME_LAB-0b1220?style=for-the-badge" alt="Home Lab"/> <img src="https://img.shields.io/badge/OPEN_SOURCE-0b1220?style=for-the-badge" alt="Open Source"/>
 
 <br>
 
