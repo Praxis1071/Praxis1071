@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="t d">
+<title id="t">Selected projects</title><desc id="d">Animated project banner featuring Keycan, NetFather, BlackArch Toolset and praxfetch.</desc>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#020617"/><stop offset=".5" stop-color="#071a2d"/><stop offset="1" stop-color="#030712"/></linearGradient><linearGradient id="a"><stop stop-color="#0ea5e9" stop-opacity="0"/><stop offset=".5" stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></linearGradient></defs>
+<rect width="1200" height="190" rx="16" fill="url(#b)"/>
+<g fill="none" stroke="#0e7490" stroke-opacity=".45"><path d="M0 25H75L110 60H180M0 165H125L160 130H220M1020 0V35L1060 75H1200M1030 190V155L1070 115H1200"/></g>
+<text x="62" y="48" fill="#7dd3fc" font-family="monospace" font-size="14" letter-spacing="4">SELECTED WORK</text>
+<g font-family="monospace" font-weight="700" fill="#f8fafc">
+<text x="62" y="105" font-size="29">KEYCAN</text><text x="340" y="105" font-size="29">NETFATHER</text><text x="650" y="105" font-size="25">BLACKARCH TOOLSET</text><text x="1000" y="105" font-size="29">PRAXFETCH</text>
+</g>
+<g fill="#38bdf8" font-family="monospace" font-size="12" letter-spacing="2"><text x="62" y="130">GTK4 / PRODUCTIVITY</text><text x="340" y="130">LINUX / NETWORKS</text><text x="650" y="130">SECURITY / TOOLS</text><text x="1000" y="130">RUST / CLI</text></g>
+<g stroke="#1d4ed8" stroke-width="2"><path d="M62 145H260M340 145H570M650 145H910M1000 145H1140"/></g>
+<g fill="#38bdf8"><circle cx="260" cy="145" r="4"><animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/></circle><circle cx="570" cy="145" r="4"><animate attributeName="r" values="3;6;3" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="910" cy="145" r="4"><animate attributeName="r" values="3;6;3" dur="1.8s" repeatCount="indefinite"/></circle></g>
+<rect x="-90" width="65" height="190" fill="#38bdf8" opacity=".06"><animate attributeName="x" values="-90;1230" dur="9s" repeatCount="indefinite"/></rect><rect width="1200" height="2" fill="url(#a)"/><rect y="188" width="1200" height="2" fill="url(#a)"/>
+</svg>
