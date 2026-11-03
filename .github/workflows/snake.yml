@@ -1,0 +1,33 @@
+name: Generate contribution snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate animated contribution GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Praxis1071
+          outputs: |
+            dist/github-snake.gif?color_snake=%2338bdf8&color_dots=%23030817,%230c4a6e,%230e7490,%230ea5e9,%237dd3fc&color_background=%23030817
+
+      - name: Publish GIF to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
